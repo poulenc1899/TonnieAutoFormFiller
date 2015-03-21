@@ -1,7 +1,7 @@
 readme.mt
 #Mic-book-o-matic version 0.1  
-##Tested on OSX 10.10.2  
-##Chrome 41.0  
+Tested on OSX 10.10.2  
+Chrome 41.0  
 -----–––-----–––-----–––-----–––-----–––-----–––  
 ##How To Use:  
   
