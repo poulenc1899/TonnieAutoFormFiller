@@ -21,14 +21,14 @@ It's shit, it doesn't work yet, please help.
 To Do:
 
 MUST
-- make the page printable
-- make a pdf with fields that are filled in with info instead of overlay
-- fix ampersand etc.
-- add filter for non-bookable items (studios, vans)
-- add error messages and/or instructions
-- add date filler-inner
+- [ ] make the page printable
+- [ ] make a pdf with fields that are filled in with info instead of overlay
+- [ ] fix ampersand etc.
+- [ ] add filter for non-bookable items (studios, vans)
+- [ ] add error messages and/or instructions
+- [ ] add date filler-inner
 
 CAN
-- add page for optional inclusion on booking sheet
-- add OOO form gen
-- add van-booking form gen
+- [ ] add page for optional inclusion on booking sheet
+- [ ] add OOO form gen
+- [ ] add van-booking form gen
